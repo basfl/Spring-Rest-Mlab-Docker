@@ -5,4 +5,5 @@
 * building dockerfile : docker build -t {name} .   
 * finding docker ip : docker-machine ip
 * running application : docker build -p 8080:8080 {name}
+* running docker-compose : docker-compose up
 
